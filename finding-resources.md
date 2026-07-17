@@ -1,6 +1,6 @@
 # Finding Resources
 
-When submitting your shortcut, you'll need some resources. You must have an iCloud link, but having a .shortcut file, screenshots, and a shortcut icon are not required but reccommended. How to get each of these are detailed below.
+When submitting your shortcut, you'll need some resources. You must have an iCloud link, but having a .shortcut file, screenshots, and a shortcut icon are not required but recommended. How to get each of these is detailed below.
 
 ## iCloud Links
 
@@ -19,7 +19,7 @@ After selecting 'Copy Link', a new dialogue box will appear with a loading icon.
 .shortcut files are an alternative way to share shortcuts. You can simply download it and tap on it to add it to your shortcuts. 
 
 .shortcut files require using the Shortcuts app itself to retrieve them. You can use a premade shortcut I made to get these easily.
-1. Download the Shortcut File and Icon Exporter shortcut
+1. [Download the Shortcut File and Icon Exporter shortcut](https://github.com/ChargeUp03/shortcut-database/blob/main/shortcut-exporter/shortcut-exporter.md)
 2. Run the shortcut by tapping anywhere on it besides the (...) icon
 3. If you haven't already created a new folder by selecting 'Create Shortcut Exporting Folder'
 4. Select '.shortcut File'
@@ -33,7 +33,7 @@ The .shortcut file will be named the same as the shortcut itself and will includ
 A shortcut icon is the small icon and background gradient you can set in the Shortcuts app. It is possible to save this icon as a .png file using a shortcut.
 
 As with retrieving a .shortcut file, you will also need to download the shortcut I made to get your icon.
-1. Download the Shortcut File and Icon Exporter shortcut
+1. [Download the Shortcut File and Icon Exporter shortcut](https://github.com/ChargeUp03/shortcut-database/blob/main/shortcut-exporter/shortcut-exporter.md)
 2. Run the shortcut by tapping anywhere on it besides the (...) icon
 3. Select Shortcut Icon
 4. Follow the instructions in the shortcut
@@ -52,7 +52,7 @@ Screenshotting requires pressing multiple buttons/keys at the same time.
 2. The screenshot will be saved in Photos
 
 ### iPhone (home button) & iPad (home button)
-1. Press the side or top button (power) and Home Button at the same time
+1. Press the side or top button (power) and the Home Button at the same time
 1.1. If you have Full-Screen Previews on, you may need to select the check (✓) button, then Save to Photos
 2. The screenshot will be saved in Photos
 
@@ -75,4 +75,4 @@ Screenshotting requires pressing multiple buttons/keys at the same time.
 1.1. If you used Command (⌘) + Shift + 4, select the area with your cursor
 2. The screenshot will be saved to your Mac's desktop.
 
-<small>Finding Resources guide Beta v0.2, part of the Shortcut Database</small>
+<small>Finding Resources guide Beta v0.3, part of the Shortcut Database<small>
