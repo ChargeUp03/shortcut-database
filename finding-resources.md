@@ -8,7 +8,7 @@ iCloud links are required to submit a shortcut, but you do not need to include o
 
 iCloud links can be retrieved very easily, as this is the official way of sharing shortcuts.
 1. Open a shortcut with the (...) button
-2. Select the share ( ) button
+2. Select the share button
 3. Select 'Copy iCloud Link'
 4. Select 'Copy Link'
 
